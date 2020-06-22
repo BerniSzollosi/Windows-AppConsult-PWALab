@@ -1,0 +1,10 @@
+#colorDiv {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+background-color: rgba(100, 20, 200, 0.1);
+}
+
+html {
+    background: url(../img/robot66.png) no-repeat cover
+}
